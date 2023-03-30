@@ -8,7 +8,7 @@ const ErrorFetch = () => {
             <img className='logo__pokemon' src={logo} alt="logo" />
             <img className='logo__ball' src={ball} alt="ball" />
         </div>
-        <span>DIGITA TU POKEMON</span>
+        <span>DIGITA EL NOMBRE DE SU POKEMON</span>
         </div>
     )
 }
