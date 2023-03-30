@@ -39,7 +39,7 @@ function App() {
       e.target.namePokemon.value="";
       setTimeout(() =>{
         setHasError(false)
-      }, 5000)
+      }, 20000)
     }
 
 
