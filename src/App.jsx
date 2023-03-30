@@ -37,9 +37,7 @@ function App() {
       e.preventDefault()
       setNamePokemon(e.target.namePokemon.value.toLowerCase().trim());
       e.target.namePokemon.value="";
-      setTimeout(() =>{
         setHasError(false)
-      }, 20000)
     }
 
 
